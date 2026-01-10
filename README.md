@@ -46,7 +46,7 @@ Master’s student in Data Science with 5+ years of experience applying Machine 
 ## Work Experience
 
 <div class="item">
-  <img src="/assets/img/insite_ai.png" class="logo" alt="Insite AI">
+  <img src="/assets/img/insiteai.png" class="logo" alt="Insite AI">
   <div>
     <strong>Senior Data Scientist — Insite AI</strong><br>
     <em>USA (Remote) | Jan 2025 – Sep 2025</em>
@@ -87,7 +87,7 @@ Master’s student in Data Science with 5+ years of experience applying Machine 
 ---
 
 <div class="item">
-  <img src="/assets/img/ab_inbev.png" class="logo">
+  <img src="/assets/img/abinbev.png" class="logo">
   <div>
     <strong>Senior Data Scientist, Marketplace — AB InBev</strong><br>
     <em>Lima, Peru | Jan 2022 – Jan 2023</em>
