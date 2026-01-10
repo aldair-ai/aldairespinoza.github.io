@@ -11,7 +11,7 @@ Master’s student in Data Science with 5+ years of experience applying Machine 
 ## Education
 
 <div class="item">
-  <img src="assets/img/ucsd.png" class="logo">
+  <img src="/assets/img/ucsd.png" class="logo" alt="UCSD">
   <div>
     <strong>University of California, San Diego (UCSD)</strong><br>
     M.S. in Data Science (Expected 2027)
@@ -19,7 +19,7 @@ Master’s student in Data Science with 5+ years of experience applying Machine 
 </div>
 
 <div class="item">
-  <img src="/assets/img/mitx.png" class="logo">
+  <img src="/assets/img/mitx.png" class="logo" alt="MITx">
   <div>
     <strong>Massachusetts Institute of Technology (MITx)</strong><br>
     MicroMaster in Statistics and Data Science
@@ -27,24 +27,26 @@ Master’s student in Data Science with 5+ years of experience applying Machine 
 </div>
 
 <div class="item">
-  <img src="/assets/img/uni.png" class="logo">
+  <img src="/assets/img/uni.png" class="logo" alt="UNI Peru">
   <div>
     <strong>National University of Engineering</strong><br>
     B.S. in Computer Science
   </div>
 </div>
 
+
 ---
 
 ## Work Experience
 
 <div class="item">
-  <img src="/assets/img/insite_ai.png" class="logo">
+  <img src="/assets/img/insite_ai.png" class="logo" alt="Insite AI">
   <div>
     <strong>Senior Data Scientist — Insite AI</strong><br>
     <em>USA (Remote) | Jan 2025 – Sep 2025</em>
   </div>
 </div>
+
 
 - Built forecasting models for 500+ SKUs across 20+ U.S. retailers at Bayer AG using LightGBM and Prophet, targeting ~10–15% forecast accuracy improvement based on industry benchmarks.
 - Enabled data-driven inventory planning and reduced manual demand-planning effort through scalable modeling pipelines.
