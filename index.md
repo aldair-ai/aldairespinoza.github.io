@@ -1,123 +1,106 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Edwin Espinoza</title>
+---
+layout: default
+title: Edwin Espinoza
+---
 
-  <link rel="stylesheet" href="/assets/css/style.css">
-</head>
-<body>
+<link rel="stylesheet" href="{{ 'assets/css/style.css' | relative_url }}">
 
-  <h1>Edwin Espinoza</h1>
+# Edwin Espinoza
 
-  <p>
-    San Diego, CA<br>
-    (619) 953-7986 | e6espinoza@ucsd.edu<br>
-    <a href="https://linkedin.com/in/aldair-ai">LinkedIn</a> |
-    <a href="https://github.com/aldair-ai">GitHub</a>
-  </p>
+San Diego, CA  
+(619) 953-7986 | e6espinoza@ucsd.edu  
+[LinkedIn](https://linkedin.com/in/aldair-ai) · [GitHub](https://github.com/aldair-ai)
 
-  <p>
-    Master’s student in Data Science with 5+ years of experience applying Machine Learning and AI across finance,
-    retail, and marketplace domains. Proven track record building predictive models and leading end-to-end
-    analytics and experimentation initiatives to drive measurable business impact. Led ML teams for 2 years.
-  </p>
+Master’s student in Data Science with 5+ years of experience applying Machine Learning and AI across finance, retail, and marketplace domains. Proven track record building predictive models and leading end-to-end analytics and experimentation initiatives to drive measurable business impact. Led ML teams for 2 years.
 
-  <hr>
+---
 
-  <h2>Education</h2>
+## Education
 
-  <div class="item">
-    <img src="/assets/img/ucsd.png" class="logo" alt="UCSD">
-    <div>
-      <strong>University of California, San Diego (UCSD)</strong><br>
-      M.S. in Data Science (Expected 2027)
-    </div>
+<div class="item">
+  <img src="{{ '/assets/img/ucsd.png' | relative_url }}" class="logo" alt="UCSD">
+  <div>
+    <strong>University of California, San Diego (UCSD)</strong><br>
+    M.S. in Data Science (Expected 2027)
   </div>
+</div>
 
-  <div class="item">
-    <img src="assets/img/mitx.png" class="logo" alt="MITx">
-    <div>
-      <strong>Massachusetts Institute of Technology (MITx)</strong><br>
-      MicroMaster in Statistics and Data Science
-    </div>
+<div class="item">
+  <img src="{{ '/assets/img/mitx.png' | relative_url }}" class="logo" alt="MITx">
+  <div>
+    <strong>Massachusetts Institute of Technology (MITx)</strong><br>
+    MicroMaster in Statistics and Data Science
   </div>
+</div>
 
-  <div class="item">
-    <img src="/assets/img/uni.png" class="logo" alt="UNI Peru">
-    <div>
-      <strong>National University of Engineering</strong><br>
-      B.S. in Computer Science
-    </div>
+<div class="item">
+  <img src="{{ '/assets/img/uni.png' | relative_url }}" class="logo" alt="UNI Peru">
+  <div>
+    <strong>National University of Engineering</strong><br>
+    B.S. in Computer Science
   </div>
+</div>
 
-  <hr>
+---
 
-  <h2>Work Experience</h2>
+## Work Experience
 
-  <div class="item">
-    <img src="/assets/img/insiteai.png" class="logo" alt="Insite AI">
-    <div>
-      <strong>Senior Data Scientist — Insite AI</strong><br>
-      <em>USA (Remote) | Jan 2025 – Sep 2025</em>
-    </div>
+<div class="item">
+  <img src="{{ '/assets/img/insiteai.png' | relative_url }}" class="logo" alt="Insite AI">
+  <div>
+    <strong>Senior Data Scientist — Insite AI</strong><br>
+    <em>USA (Remote) | Jan 2025 – Sep 2025</em>
   </div>
+</div>
 
-  <ul>
-    <li>Built forecasting models for 500+ SKUs across 20+ U.S. retailers using LightGBM and Prophet.</li>
-    <li>Enabled data-driven inventory planning and reduced manual demand-planning effort.</li>
-  </ul>
+- Built forecasting models for 500+ SKUs across 20+ U.S. retailers using LightGBM and Prophet.
+- Enabled data-driven inventory planning and reduced manual demand-planning effort.
 
-  <div class="item">
-    <img src="/assets/img/bcp.png" class="logo" alt="BCP">
-    <div>
-      <strong>Lead Data Scientist, Audit — Credit Bank of Peru (Credicorp)</strong><br>
-      <em>Lima, Peru | Jan 2023 – Jan 2025</em>
-    </div>
+---
+
+<div class="item">
+  <img src="{{ '/assets/img/bcp.png' | relative_url }}" class="logo" alt="BCP">
+  <div>
+    <strong>Lead Data Scientist, Audit — Credit Bank of Peru (Credicorp)</strong><br>
+    <em>Lima, Peru | Jan 2023 – Jan 2025</em>
   </div>
+</div>
 
-  <ul>
-    <li>Led a 4-person DS team delivering GenAI audit pipelines using LLMs, RAG, and LangGraph.</li>
-    <li>Automated compliance monitoring across 320+ branches, avoiding ~$1M annually.</li>
-  </ul>
+- Led a 4-person Data Science team delivering GenAI audit pipelines using LLMs, RAG, and LangGraph.
+- Automated compliance monitoring across 320+ branches, avoiding ~$1M annually.
 
-  <div class="item">
-    <img src="/assets/img/abinbev.png" class="logo" alt="AB InBev">
-    <div>
-      <strong>Senior Data Scientist, Marketplace — AB InBev</strong><br>
-      <em>Lima, Peru | Jan 2022 – Jan 2023</em>
-    </div>
+---
+
+<div class="item">
+  <img src="{{ '/assets/img/abinbev.png' | relative_url }}" class="logo" alt="AB InBev">
+  <div>
+    <strong>Senior Data Scientist, Marketplace — AB InBev</strong><br>
+    <em>Lima, Peru | Jan 2022 – Jan 2023</em>
   </div>
+</div>
 
-  <ul>
-    <li>Improved CTR from 7% to 10% via XGBoost notification optimization.</li>
-    <li>Generated ~$210K in annual incremental revenue.</li>
-  </ul>
+- Improved CTR from 7% to 10% via XGBoost notification optimization.
+- Generated ~$210K in annual incremental revenue.
 
-  <div class="item">
-    <img src="/assets/img/pichincha.png" class="logo" alt="Pichincha Bank">
-    <div>
-      <strong>Data Scientist, Risk — Pichincha Bank</strong><br>
-      <em>Lima, Peru | Jan 2021 – Jan 2022</em>
-    </div>
+---
+
+<div class="item">
+  <img src="{{ '/assets/img/pichincha.png' | relative_url }}" class="logo" alt="Pichincha Bank">
+  <div>
+    <strong>Data Scientist, Risk — Pichincha Bank</strong><br>
+    <em>Lima, Peru | Jan 2021 – Jan 2022</em>
   </div>
+</div>
 
-  <ul>
-    <li>Reduced credit defaults by 5% using Random Forest models.</li>
-    <li>Recovered ~$1.2M annually via ANN-based collections optimization.</li>
-  </ul>
+- Reduced credit defaults by 5% using Random Forest models.
+- Recovered ~$1.2M annually via ANN-based collections optimization.
 
-  <hr>
+---
 
-  <h2>Skills</h2>
+## Skills
 
-  <p>
-    <strong>Programming:</strong> Python, R, Scala, C++<br>
-    <strong>Databases:</strong> MySQL, Oracle, MongoDB, NoSQL, BigQuery<br>
-    <strong>ML & AI:</strong> XGBoost, TensorFlow, PyTorch, Hugging Face, LLMs, RAG, YOLO<br>
-    <strong>Data Engineering:</strong> Spark, PySpark, Databricks, Airflow<br>
-    <strong>Languages:</strong> English, Portuguese, Spanish
-  </p>
-
-</body>
-</html>
+**Programming:** Python, R, Scala, C++  
+**Databases:** MySQL, Oracle, MongoDB, NoSQL, BigQuery  
+**ML & AI:** XGBoost, TensorFlow, PyTorch, Hugging Face, LLMs, RAG, YOLO  
+**Data Engineering:** Spark, PySpark, Databricks, Airflow  
+**Languages:** English, Portuguese, Spanish
