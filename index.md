@@ -18,7 +18,7 @@ Master’s student in Data Science with 5+ years of experience applying Machine 
 ## Education
 
 <div class="item">
-  <img src="{{ '/assets/img/ucsd.png' | relative_url }}" class="logo" alt="UCSD">
+  <img src="{{ 'assets/img/ucsd.png' | relative_url }}" class="logo" alt="UCSD">
   <div>
     <strong>University of California, San Diego (UCSD)</strong><br>
     M.S. in Data Science (Expected 2027)
