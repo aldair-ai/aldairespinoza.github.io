@@ -194,6 +194,36 @@ body {
   text-decoration: underline;
 }
 
+/* ===== Blog / Writing ===== */
+.post {
+  margin-top: 40px;
+}
+
+.post-image {
+  width: 100%;
+  max-width: 720px;
+  border-radius: 12px;
+  margin-bottom: 16px;
+  display: block;
+}
+
+.post h2 {
+  margin-bottom: 8px;
+}
+
+.post p {
+  max-width: 720px;
+}
+
+.post a {
+  font-weight: 500;
+  color: #2563eb;
+  text-decoration: none;
+}
+
+.post a:hover {
+  text-decoration: underline;
+}
 
 
 /* ===== Responsive ===== */
