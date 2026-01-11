@@ -130,24 +130,37 @@ body {
 
 /* ===== Top Navigation ===== */
 .top-nav {
-  margin-bottom: 32px;
+  background-color: #f8fafc; /* mismo gris del fondo */
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.top-nav-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 16px 20px;
 }
 
 .top-nav nav {
   display: flex;
-  gap: 20px;
+  gap: 24px;
 }
 
 .top-nav a {
   font-weight: 500;
-  color: #374151;
+  font-size: 0.95rem;
+  color: #1f2937;
   text-decoration: none;
-  padding-bottom: 6px;
+  padding-bottom: 4px;
   border-bottom: 2px solid transparent;
 }
 
 .top-nav a:hover {
   border-bottom-color: #2563eb;
+}
+
+.top-nav a.active {
+  border-bottom-color: #2563eb;
+  font-weight: 600;
 }
 
 
