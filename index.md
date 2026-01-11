@@ -132,7 +132,7 @@ title: Edwin Espinoza
       <img src="{{ '/assets/img/isil.png' | relative_url }}" class="logo" alt="ISIL">
       <div>
         <strong>ISIL — Peru</strong><br>
-        <em>Instructor · Data Science & Machine Learning</em>
+        <em>Instructor · Data Science & Machine Learning 2024-Present</em>
         <p>
           Taught undergraduate-level courses in Data Science, Machine Learning, and Python, focusing on practical
           modeling and applied analytics.
@@ -141,10 +141,10 @@ title: Edwin Espinoza
     </div>
     
     <div class="item">
-      <img src="{{ '/assets/img/sama.png' | relative_url }}" class="logo" alt="CC SAMA PAD">
+      <img src="{{ '/assets/img/sama.jgg' | relative_url }}" class="logo" alt="CC SAMA PAD">
       <div>
         <strong>CC. SAMA (PAD) — Peru</strong><br>
-        <em>Instructor · 2024 – Present</em>
+        <em>Instructor · 2024 – 2025</em>
         <p>
           Instructor in entrepreneurship and business fundamentals programs, supporting early-stage founders and
           professionals in developing analytical and strategic thinking.
