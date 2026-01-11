@@ -163,6 +163,38 @@ body {
   font-weight: 600;
 }
 
+/* ===== Projects ===== */
+.project {
+  margin-top: 40px;
+}
+
+.project h2 {
+  margin-bottom: 12px;
+}
+
+.project-image {
+  width: 100%;
+  max-width: 720px;
+  border-radius: 12px;
+  margin: 16px 0;
+  display: block;
+}
+
+.project p {
+  max-width: 720px;
+}
+
+.project a {
+  font-weight: 500;
+  color: #2563eb;
+  text-decoration: none;
+}
+
+.project a:hover {
+  text-decoration: underline;
+}
+
+
 
 /* ===== Responsive ===== */
 @media (max-width: 900px) {
