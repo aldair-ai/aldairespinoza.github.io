@@ -162,6 +162,71 @@ title: Edwin Espinoza
       </li>
     </ul>
 
+    <h2>Talks & Presentations</h2>
+
+    <div class="talk">
+    <strong>CCAT – Data FirstStep</strong><br>
+    <em>June 2024</em>
+    <ul>
+      <li>
+        Keynote speaker in a university session attended by 150+ prospective data scientists, delivering a comprehensive
+        introduction to core concepts and practical applications in Data Science.
+      </li>
+    </ul>
+    </div>
+    
+    <div class="talk">
+      <strong>CLAIN Hackathon – OCR & Speech Recognition Solutions</strong><br>
+      <em>June 2023</em>
+      <ul>
+        <li>
+          Achieved 4th place among 30 teams in a hackathon organized by CLAIN (Latin American Committee of Internal Audit and
+          Risk Evaluation), presenting innovative OCR and speech recognition solutions.
+        </li>
+        <li>
+          The event gathered 250+ professionals, including Chief Audit Executives from leading banks across Latin America.
+        </li>
+      </ul>
+    </div>
+    
+    <div class="talk">
+      <strong>Credicorp Internal Audit Conference</strong><br>
+      <em>August 2023</em>
+      <ul>
+        <li>
+          Speaker at a corporate internal audit conference, presenting innovative applications of Artificial Intelligence in
+          audit processes, with a focus on improving accuracy and operational efficiency.
+        </li>
+        <li>
+          Audience of 500+ professionals from across the Credicorp group.
+        </li>
+      </ul>
+    </div>
+
+    <h2>Teaching Experience</h2>
+
+    <div class="teaching">
+      <strong>ISIL — Peru</strong>
+      <ul>
+        <li>
+          Instructor for undergraduate-level courses in <em>Data Science and Machine Learning</em> and
+          <em>Data Science with Python</em>.
+        </li>
+      </ul>
+    </div>
+    
+    <div class="teaching">
+      <strong>CC. SAMA (PAD) — Peru</strong><br>
+      <em>2024 – Present</em>
+      <ul>
+        <li>
+          Instructor in the <em>Future Entrepreneurs Program</em> and the
+          <em>Introduction to Business Life Program</em>, focused on developing analytical and entrepreneurial skills.
+        </li>
+      </ul>
+    </div>
+
+
 
     <h2>Skills</h2>
 
