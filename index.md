@@ -154,7 +154,7 @@ title: Edwin Espinoza
     </div>
     
     <div class="item">
-      <img src="{{ '/assets/img/sama.jgg' | relative_url }}" class="logo" alt="CC SAMA PAD">
+      <img src="{{ '/assets/img/sama.jpg' | relative_url }}" class="logo" alt="CC SAMA PAD">
       <div>
         <strong>CC. SAMA (PAD) — Peru</strong><br>
         <em>Instructor · 2024 – 2025</em>
