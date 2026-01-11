@@ -62,50 +62,66 @@ title: Edwin Espinoza
 
     <h2>Work Experience</h2>
 
-    <div class="role">
-      <strong>Senior Data Scientist — Insite AI</strong><br>
-      <em>USA (Remote) | Jan 2025 – Sep 2025</em>
-      <p>
-        Led large-scale demand forecasting initiatives across 20+ U.S. retailers, supporting enterprise CPG clients
-        with ML-driven inventory planning and forecasting solutions.
-      </p>
+    <div class="item">
+      <img src="{{ '/assets/img/insiteai.png' | relative_url }}" class="logo" alt="Insite AI">
+      <div>
+        <strong>Senior Data Scientist — Insite AI</strong><br>
+        <em>USA (Remote) | Jan 2025 – Sep 2025</em>
+        <p>
+          Led large-scale demand forecasting initiatives across 20+ U.S. retailers, delivering ML-driven inventory
+          planning solutions for enterprise CPG clients.
+        </p>
+      </div>
     </div>
     
-    <div class="role">
-      <strong>Lead Data Scientist, Audit — Credit Bank of Peru (Credicorp)</strong><br>
-      <em>Lima, Peru | Jan 2023 – Jan 2025</em>
-      <p>
-        Led a Data Science team delivering GenAI and computer vision solutions for audit automation, compliance monitoring,
-        and enterprise risk management at scale.
-      </p>
+    <div class="item">
+      <img src="{{ '/assets/img/bcp.png' | relative_url }}" class="logo" alt="Credicorp">
+      <div>
+        <strong>Lead Data Scientist, Audit — Credit Bank of Peru (Credicorp)</strong><br>
+        <em>Lima, Peru | Jan 2023 – Jan 2025</em>
+        <p>
+          Led a Data Science team delivering GenAI and computer vision solutions for audit automation, compliance
+          monitoring, and enterprise risk management at scale.
+        </p>
+      </div>
     </div>
     
-    <div class="role">
-      <strong>Senior Data Scientist — Credit Bank of Peru</strong><br>
-      <em>Lima, Peru | Jan 2023 – Nov 2023</em>
-      <p>
-        Designed cloud-based AI systems to automate contract validation and sales compliance workflows, significantly
-        expanding operational capacity and reducing risk exposure.
-      </p>
+    <div class="item">
+      <img src="{{ '/assets/img/bcp.png' | relative_url }}" class="logo" alt="Credicorp">
+      <div>
+        <strong>Senior Data Scientist — Credit Bank of Peru</strong><br>
+        <em>Lima, Peru | Jan 2023 – Nov 2023</em>
+        <p>
+          Designed cloud-based AI systems to automate contract validation and sales compliance workflows, significantly
+          expanding operational capacity and reducing risk exposure.
+        </p>
+      </div>
     </div>
     
-    <div class="role">
-      <strong>Senior Data Scientist, Marketplace — AB InBev</strong><br>
-      <em>Lima, Peru | Jan 2022 – Jan 2023</em>
-      <p>
-        Built and deployed ML models for personalization, demand forecasting, and growth experimentation within a
-        large-scale B2B marketplace.
-      </p>
+    <div class="item">
+      <img src="{{ '/assets/img/abinbev.png' | relative_url }}" class="logo" alt="AB InBev">
+      <div>
+        <strong>Senior Data Scientist, Marketplace — AB InBev</strong><br>
+        <em>Lima, Peru | Jan 2022 – Jan 2023</em>
+        <p>
+          Built and deployed ML models for personalization, demand forecasting, and growth experimentation within a
+          large-scale B2B marketplace.
+        </p>
+      </div>
     </div>
     
-    <div class="role">
-      <strong>Data Scientist, Risk — Pichincha Bank</strong><br>
-      <em>Lima, Peru | Jan 2021 – Jan 2022</em>
-      <p>
-        Applied machine learning models to credit risk and collections optimization, improving default rates and loan
-        recovery performance.
-      </p>
+    <div class="item">
+      <img src="{{ '/assets/img/pichincha.png' | relative_url }}" class="logo" alt="Pichincha Bank">
+      <div>
+        <strong>Data Scientist, Risk — Pichincha Bank</strong><br>
+        <em>Lima, Peru | Jan 2021 – Jan 2022</em>
+        <p>
+          Applied machine learning models to credit risk and collections optimization, improving default rates and loan
+          recovery performance.
+        </p>
+      </div>
     </div>
+
 
 
     <h2>Talks & Presentations</h2>
@@ -133,10 +149,7 @@ title: Edwin Espinoza
       <div>
         <strong>ISIL — Peru</strong><br>
         <em>Instructor · Data Science & Machine Learning 2024-Present</em>
-        <p>
-          Taught undergraduate-level courses in Data Science, Machine Learning, and Python, focusing on practical
-          modeling and applied analytics.
-        </p>
+
       </div>
     </div>
     
@@ -145,10 +158,7 @@ title: Edwin Espinoza
       <div>
         <strong>CC. SAMA (PAD) — Peru</strong><br>
         <em>Instructor · 2024 – 2025</em>
-        <p>
-          Instructor in entrepreneurship and business fundamentals programs, supporting early-stage founders and
-          professionals in developing analytical and strategic thinking.
-        </p>
+        
       </div>
     </div>
 
