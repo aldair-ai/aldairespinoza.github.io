@@ -62,169 +62,96 @@ title: Edwin Espinoza
 
     <h2>Work Experience</h2>
 
-    <div class="item">
-      <img src="{{ '/assets/img/insiteai.png' | relative_url }}" class="logo" alt="Insite AI">
-      <div>
-        <strong>Senior Data Scientist — Insite AI</strong><br>
-        <em>USA (Remote) | Jan 2025 – Sep 2025</em>
-      </div>
+    <div class="role">
+      <strong>Senior Data Scientist — Insite AI</strong><br>
+      <em>USA (Remote) | Jan 2025 – Sep 2025</em>
+      <p>
+        Led large-scale demand forecasting initiatives across 20+ U.S. retailers, supporting enterprise CPG clients
+        with ML-driven inventory planning and forecasting solutions.
+      </p>
     </div>
     
-    <ul>
-      <li>
-        Built forecasting models for 500+ SKUs across 20+ U.S. retailers at Bayer AG using LightGBM and Prophet, targeting
-        ~10–15% forecast accuracy improvement based on industry benchmarks. Enabled data-driven inventory planning and
-        reduced manual effort in demand planning.
-      </li>
-    </ul>
-    
-    <div class="item">
-      <img src="{{ '/assets/img/bcp.png' | relative_url }}" class="logo" alt="Credicorp">
-      <div>
-        <strong>Lead Data Scientist, Audit — Credit Bank of Peru (Credicorp)</strong><br>
-        <em>Lima, Peru | Jan 2023 – Jan 2025</em>
-      </div>
+    <div class="role">
+      <strong>Lead Data Scientist, Audit — Credit Bank of Peru (Credicorp)</strong><br>
+      <em>Lima, Peru | Jan 2023 – Jan 2025</em>
+      <p>
+        Led a Data Science team delivering GenAI and computer vision solutions for audit automation, compliance monitoring,
+        and enterprise risk management at scale.
+      </p>
     </div>
     
-    <ul>
-      <li>
-        Directed a 4-person Data Science team to deliver GenAI solutions for audit pipelines, integrating LLMs,
-        HuggingFace Transformers, LangGraph agents, and vector-database RAG retrieval for document verification and
-        phone-sales anomaly detection. Built and tested optimized deployments on Linux, enabling ~$250K in cost avoidance.
-      </li>
-      <li>
-        Developed computer vision solution with YOLO and OpenCV to automate weekly and monthly compliance monitoring in
-        320+ bank branches, replacing manual audits on limited samples. Enabled full-year, full-population coverage,
-        reducing 40,000+ audit hours and avoiding ~$1M in annual costs.
-      </li>
-    </ul>
-    
-    <div class="item">
-      <img src="{{ '/assets/img/bcp.png' | relative_url }}" class="logo" alt="Credicorp">
-      <div>
-        <strong>Senior Data Scientist — Credit Bank of Peru</strong><br>
-        <em>Lima, Peru | Jan 2023 – Nov 2023</em>
-      </div>
+    <div class="role">
+      <strong>Senior Data Scientist — Credit Bank of Peru</strong><br>
+      <em>Lima, Peru | Jan 2023 – Nov 2023</em>
+      <p>
+        Designed cloud-based AI systems to automate contract validation and sales compliance workflows, significantly
+        expanding operational capacity and reducing risk exposure.
+      </p>
     </div>
     
-    <ul>
-      <li>
-        Developed cloud solution with Azure-SDK, OpenCV, and RegEx to automate contract validation, increasing review
-        capacity by 100-fold, reducing potential non-compliance fine risks and saving an estimated $180K annually.
-      </li>
-      <li>
-        Created cloud solution on Azure using OpenAI’s Whisper and Hugging Face’s NER models to extract and validate sales
-        guidelines and conditions, increasing processing bandwidth capacity by ~7,500% annually, resulting in $150K in
-        annual cost savings.
-      </li>
-    </ul>
-    
-    <div class="item">
-      <img src="{{ '/assets/img/abinbev.png' | relative_url }}" class="logo" alt="AB InBev">
-      <div>
-        <strong>Senior Data Scientist, Marketplace — AB InBev</strong><br>
-        <em>Lima, Peru | Jan 2022 – Jan 2023</em>
-      </div>
+    <div class="role">
+      <strong>Senior Data Scientist, Marketplace — AB InBev</strong><br>
+      <em>Lima, Peru | Jan 2022 – Jan 2023</em>
+      <p>
+        Built and deployed ML models for personalization, demand forecasting, and growth experimentation within a
+        large-scale B2B marketplace.
+      </p>
     </div>
     
-    <ul>
-      <li>
-        Built and productionized XGBoost model in Python and Spark on an Azure-based cloud platform to optimize the
-        scheduling of in-app and push notifications, improving Click-Through Rate from 7% to 10% and generating an
-        additional $210,000 in annual revenues.
-      </li>
-      <li>
-        Performed weekly demand forecasting with an ARIMA-based model for 30% of marketplace sales, increasing conversion
-        rate from 2% to 4% and unlocking $130K in extra annual revenues.
-      </li>
-      <li>
-        Identified high-propensity new customers using K-Nearest Neighbors on geolocation-based purchase patterns, then
-        deployed targeted summer advertising campaigns through A/B testing, resulting in a $100K/month sales uplift.
-      </li>
-    </ul>
-    
-    <div class="item">
-      <img src="{{ '/assets/img/pichincha.png' | relative_url }}" class="logo" alt="Pichincha Bank">
-      <div>
-        <strong>Data Scientist, Risk — Pichincha Bank</strong><br>
-        <em>Lima, Peru | Jan 2021 – Jan 2022</em>
-      </div>
+    <div class="role">
+      <strong>Data Scientist, Risk — Pichincha Bank</strong><br>
+      <em>Lima, Peru | Jan 2021 – Jan 2022</em>
+      <p>
+        Applied machine learning models to credit risk and collections optimization, improving default rates and loan
+        recovery performance.
+      </p>
     </div>
-    
-    <ul>
-      <li>
-        Applied a Random Forest model with ensemble learning techniques to enhance risk management, achieving a 5%
-        reduction in credit defaults and recovering ~$750K in annual loan repayments.
-      </li>
-      <li>
-        Applied an ANN model with Keras and Databricks to increase credit collection of overdue loans by 4%, resulting in
-        approximately $1.2M additional annual recovery in loan amounts.
-      </li>
-    </ul>
+
 
     <h2>Talks & Presentations</h2>
 
-    <div class="talk">
-    <strong>CCAT – Data FirstStep</strong><br>
-    <em>June 2024</em>
-    <ul>
+    <ul class="list">
       <li>
-        Keynote speaker in a university session attended by 150+ prospective data scientists, delivering a comprehensive
-        introduction to core concepts and practical applications in Data Science.
+        <strong>CCAT – Data FirstStep</strong> — June 2024  
+        <span class="meta">(Keynote · University audience, 150+ attendees)</span>
+      </li>
+      <li>
+        <strong>CLAIN Hackathon – OCR & Speech Recognition Solutions</strong> — June 2023  
+        <span class="meta">(4th place · 30 teams · 250+ professionals)</span>
+      </li>
+      <li>
+        <strong>Credicorp Internal Audit Conference</strong> — August 2023  
+        <span class="meta">(Corporate conference · 500+ attendees)</span>
       </li>
     </ul>
-    </div>
-    
-    <div class="talk">
-      <strong>CLAIN Hackathon – OCR & Speech Recognition Solutions</strong><br>
-      <em>June 2023</em>
-      <ul>
-        <li>
-          Achieved 4th place among 30 teams in a hackathon organized by CLAIN (Latin American Committee of Internal Audit and
-          Risk Evaluation), presenting innovative OCR and speech recognition solutions.
-        </li>
-        <li>
-          The event gathered 250+ professionals, including Chief Audit Executives from leading banks across Latin America.
-        </li>
-      </ul>
-    </div>
-    
-    <div class="talk">
-      <strong>Credicorp Internal Audit Conference</strong><br>
-      <em>August 2023</em>
-      <ul>
-        <li>
-          Speaker at a corporate internal audit conference, presenting innovative applications of Artificial Intelligence in
-          audit processes, with a focus on improving accuracy and operational efficiency.
-        </li>
-        <li>
-          Audience of 500+ professionals from across the Credicorp group.
-        </li>
-      </ul>
-    </div>
+
 
     <h2>Teaching Experience</h2>
 
-    <div class="teaching">
-      <strong>ISIL — Peru</strong>
-      <ul>
-        <li>
-          Instructor for undergraduate-level courses in <em>Data Science and Machine Learning</em> and
-          <em>Data Science with Python</em>.
-        </li>
-      </ul>
+    <div class="item">
+      <img src="{{ '/assets/img/isil.png' | relative_url }}" class="logo" alt="ISIL">
+      <div>
+        <strong>ISIL — Peru</strong><br>
+        <em>Instructor · Data Science & Machine Learning</em>
+        <p>
+          Taught undergraduate-level courses in Data Science, Machine Learning, and Python, focusing on practical
+          modeling and applied analytics.
+        </p>
+      </div>
     </div>
     
-    <div class="teaching">
-      <strong>CC. SAMA (PAD) — Peru</strong><br>
-      <em>2024 – Present</em>
-      <ul>
-        <li>
-          Instructor in the <em>Future Entrepreneurs Program</em> and the
-          <em>Introduction to Business Life Program</em>, focused on developing analytical and entrepreneurial skills.
-        </li>
-      </ul>
+    <div class="item">
+      <img src="{{ '/assets/img/sama.png' | relative_url }}" class="logo" alt="CC SAMA PAD">
+      <div>
+        <strong>CC. SAMA (PAD) — Peru</strong><br>
+        <em>Instructor · 2024 – Present</em>
+        <p>
+          Instructor in entrepreneurship and business fundamentals programs, supporting early-stage founders and
+          professionals in developing analytical and strategic thinking.
+        </p>
+      </div>
     </div>
+
 
 
 
