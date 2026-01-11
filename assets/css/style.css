@@ -64,17 +64,26 @@
 .item {
   display: flex;
   gap: 12px;
-  align-items: center;
-  margin-top: 16px;
+  align-items: flex-start; /* alinea arriba */
+  margin-top: 20px;
+}
+
+.item > div {
+  display: block;
+}
+
+.item strong {
+  display: inline-block;
+  margin-top: 2px; /* ajuste fino para alineación visual */
 }
 
 .logo {
   width: 36px;
   height: 36px;
   object-fit: contain;
-  border: 1px solid #e5e7eb;
   border-radius: 6px;
   padding: 4px;
+  flex-shrink: 0;
 }
 
 /* ===== Responsive ===== */
